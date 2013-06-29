@@ -12,4 +12,3 @@ Planned Features
 - Add data logging for all commands and actions
 - Restore individual worlds/folders from .minecraft
 - Better file compression (possibly 7z format)
-
